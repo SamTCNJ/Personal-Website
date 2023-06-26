@@ -1,7 +1,7 @@
 /* Example CSS for hobby image sizing */
 .hobby-image {
-    width: 200px; /* Set the width of the image */
-    height: 150px; /* Set the height of the image */
+    width: 400px; /* Set the width of the image */
+    height: 300px; /* Set the height of the image */
     object-fit: cover; /* Optional: Use object-fit to control how the image fits within its container */
 }  
 html,
@@ -13,19 +13,13 @@ body {
 }
 
 body {
-  background-color: #e8cfa2; /* light sky blue */
-  color: #333333; 
-  border-top: 2px solid #333333;
+  background-color: #c7c4b1; /* light tan */
+  color: #000000; 
+  border-top: 2px solid #000000;
   margin-top: 0;
   padding-top: 0;
   margin: 0;
 }
-/*
-nav {
-  background-color: #00528c;
-  color: #ffffff;
-}
-*/
 
 .my-hr {
   border-color: #a87d32;
@@ -43,7 +37,7 @@ nav {
 
 .footer,
 .push {
-  height: 50px; /* Height of the footer */
+  height: 75px; /* Height of the footer */
 }
 
 
@@ -51,8 +45,8 @@ nav {
   background-color: #a87d32;
   color: #ffffff; 
   text-align: center;
-  border-top: 2px solid #333333;
-  border-bottom: 2px solid #333333;
+  border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;
   margin-bottom: 0;
   padding-bottom: 0;
 }
